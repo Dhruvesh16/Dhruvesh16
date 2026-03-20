@@ -42,7 +42,7 @@ public class Dhruvesh {
 🔹 Always exploring the latest in **tech trends** and **security frameworks**  
 🔹 Love collaborating on **exciting projects** and **open-source contributions**  
 🔹 **Always ready to help** fellow developers and contribute to the community 🤝  
-🔹 Currently working on **EuclidOS** - a custom Android ROM project 📱
+🔹 Currently building [**@VaultSpec**](https://github.com/VaultSpec) & [**@Broca**](https://github.com/orgs/Brocadr/) 🚀
 
 ---
 
@@ -109,7 +109,7 @@ public class Dhruvesh {
 - 🔐 **Advanced Cybersecurity**: Penetration testing, vulnerability assessment & security research
 - 📱 **Android ROM Development**: Building EuclidOS - Custom Android experience with enhanced security
 - ☁️ **Cloud Security**: AWS/Azure security implementations & DevSecOps practices
-- �️ **AOSP Customization**: Deep Android system modifications & custom recovery development
+- 🛠️ **AOSP Customization**: Deep Android system modifications & custom recovery development
 - 🤖 **AI/ML Security**: Exploring security in machine learning applications
 - 🌐 **Full-Stack Security**: Secure web application development with modern frameworks
 
@@ -130,9 +130,9 @@ public class Dhruvesh {
 💼 **Open to exciting opportunities and collaborations!**  
 🤝 **Always ready to help fellow developers and share knowledge!**
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://www.dhruvesh.in.net)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/dhruvesh19/)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-Follow_Me-E4405F?style=for-the-badge)](https://instagram.com/dhruvesh3466)
+[![Website](https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dhruvesh.co.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvesh19/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruvesh3466)
 
 *"Code with passion, secure with purpose, always ready to help"* 🚀
 
