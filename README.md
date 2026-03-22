@@ -4,7 +4,7 @@
 
 ### 💻 Java Developer | 🔐 Cybersecurity Enthusiast | 🚀 Tech Innovator
 
-[![Website](https://img.shields.io/badge/Website-www.dhruvesh.in.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dhruvesh.in.net)
+[![Website](https://img.shields.io/badge/Website-www.dhruvesh.in.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dhruvesh.co.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvesh19-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvesh19/)
 [![Instagram](https://img.shields.io/badge/Instagram-dhruvesh3466-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruvesh3466)
 
