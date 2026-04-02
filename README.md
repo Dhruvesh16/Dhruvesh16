@@ -42,7 +42,7 @@ public class Dhruvesh {
 🔹 Always exploring the latest in **tech trends** and **security frameworks**  
 🔹 Love collaborating on **exciting projects** and **open-source contributions**  
 🔹 **Always ready to help** fellow developers and contribute to the community 🤝  
-🔹 Currently building [**@VaultSpec**](https://github.com/VaultSpec) & [**@Broca**](https://github.com/orgs/Brocadr/) 🚀
+🔹 Currently building [**@VaultSpec**](https://github.com/VaultSpec)
 
 ---
 
