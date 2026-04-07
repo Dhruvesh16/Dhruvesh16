@@ -107,7 +107,6 @@ public class Dhruvesh {
 ## 🚀 Current Focus Areas
 
 - 🔐 **Advanced Cybersecurity**: Penetration testing, vulnerability assessment & security research
-- 📱 **Android ROM Development**: Building EuclidOS - Custom Android experience with enhanced security
 - ☁️ **Cloud Security**: AWS/Azure security implementations & DevSecOps practices
 - 🛠️ **AOSP Customization**: Deep Android system modifications & custom recovery development
 - 🤖 **AI/ML Security**: Exploring security in machine learning applications
@@ -117,10 +116,7 @@ public class Dhruvesh {
 
 ## 🎯 Featured Projects
 
-- 🚀 **EuclidOS**: Custom Android ROM with enhanced security features
 - 🔒 **Security Research**: Various cybersecurity tools and vulnerability assessments
-- 📱 **Android Tools**: Custom recovery and system modification utilities
-
 ---
 
 ## 📫 Let's Connect!
