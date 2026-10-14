@@ -85,10 +85,10 @@ public class Dhruvesh {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvesh16&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-stats-extended-fawn.vercel.app/api?username=Dhruvesh16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&show=contributions&number_format=long)
+![GitHub Stats](https://github-stats-extended-fawn.vercel.app/api?username=Dhruvesh16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&show=contributions&number_format=long&hide_rank=true)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-stats-extended-fawn.vercel.app/api/top-langs/?username=Dhruvesh16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&hide=html,css,tex,shell,makefile,dockerfile,batchfile,procfile,bibtex%20style&size_weight=0.5&count_weight=0.5)
+![Top Languages](https://github-stats-extended-fawn.vercel.app/api/top-langs/?username=Dhruvesh16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&hide=c,html,css,tex,shell,makefile,dockerfile,batchfile,procfile,bibtex%20style&size_weight=0.5&count_weight=0.5)
 
 </div>
 
