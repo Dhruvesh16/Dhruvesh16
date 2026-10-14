@@ -85,7 +85,7 @@ public class Dhruvesh {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvesh16&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-stats-extended-fawn.vercel.app/api?username=Dhruvesh16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF)
+![GitHub Stats](https://github-stats-extended-fawn.vercel.app/api?username=Dhruvesh16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&show=contributions&number_format=long)
 
 ### 💻 Most Used Languages
 ![Top Languages](https://github-stats-extended-fawn.vercel.app/api/top-langs/?username=Dhruvesh16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)
