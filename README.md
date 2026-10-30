@@ -88,7 +88,7 @@ public class Dhruvesh {
 ![GitHub Stats](https://github-stats-extended-fawn.vercel.app/api?username=Dhruvesh16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&show=contributions&number_format=long&cache_seconds=14400)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-stats-extended-fawn.vercel.app/api/top-langs/?username=Dhruvesh16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&hide=c,html,css,tex,shell,makefile,dockerfile,batchfile,procfile,bibtex%20style&size_weight=0.5&count_weight=0.5&cache_seconds=14400)
+![Top Languages](https://github-stats-extended-fawn.vercel.app/api/top-langs/?username=Dhruvesh16&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&hide=c,html,css,tex,shell,makefile,dockerfile,batchfile,procfile,bibtex%20style&size_weight=0.5&count_weight=0.5&show_icons=true&card_width=360&prog_bar_bg_color=21262D&cache_seconds=14400)
 
 </div>
 
